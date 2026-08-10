@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+
+# Vídeos e arquivos baixados
+downloads/
+*.mp4
+*.mp3
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
