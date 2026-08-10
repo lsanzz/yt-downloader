@@ -26,7 +26,7 @@ Este projeto baixa automaticamente:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/lsanzz/yt-downloader.git)
+git clone [https://github.com/lsanzz/yt-downloader.git](https://github.com/lsanzz/yt-downloader.git)
 cd yt-downloader
 
 2. Criar e ativar o ambiente virtual (venv)
